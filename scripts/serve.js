@@ -23,7 +23,7 @@ class Server {
 
       watchPattern = 'docs/**/*',
 
-      port = 8000,
+      port = 3010,
 
       serveIndexes = ['index.html'],
       serveDir = 'docs-html',

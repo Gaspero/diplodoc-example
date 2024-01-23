@@ -1,4 +1,10 @@
-title: Sub-section Example on index page
+title: Documentation Template
 links:
+  - title: About
+    href: about.md
+  - title: Diplodoc page on index page
+    href: page.md
+  - title: YFM Structure on index page
+    href: anotherpage.md
   - title: Content on a page under Sub-section
     href: content.md
