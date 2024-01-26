@@ -16,20 +16,20 @@ navigation:
     url: 'https://diplodoc.com'
     dark:
       icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg'
-      text: 'Diplodoc'
+      # text: 'Diplodoc'
     light:
       icon: 'https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg'
-      text: 'Diplodoc'
+      # text: 'Diplodoc'
   header:
     leftItems:
-      - text: 'Relative Link'
+      - text: 'Docs'
         type: 'link'
-        url: './ru/settings'
-      - text: 'Absolute Link'
-        type: 'link'
-        url: 'https://diplodoc.com/docs/ru/project/'
-    rightItems:
-      - text: 'Other Link'
-        type: 'link'
-        url: 'ru/contribution'
-      - type: controls``
+        url: '/'
+      # - text: 'Absolute Link'
+      #   type: 'link'
+      #   url: 'https://diplodoc.com/docs/ru/project/'
+    # rightItems:
+    #   - text: 'Other Link'
+    #     type: 'link'
+    #     url: 'ru/contribution'
+    #   - type: controls
